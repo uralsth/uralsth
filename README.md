@@ -25,9 +25,13 @@ pursuing my B.CSIT from Academia International College, Gwarko
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
 </p>
 
+<br>
+##### I am currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kohux1jvi7ze8o2lc2mqe49uz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
 
