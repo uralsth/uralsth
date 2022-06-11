@@ -6,7 +6,6 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Django Web Development
@@ -41,7 +40,3 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/gooner_ural"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/ural-shrestha-20196723a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-
-
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
