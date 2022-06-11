@@ -29,7 +29,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 </p>
 
 <br>
-##### I am currently listening to:
+
+### I am currently listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kohux1jvi7ze8o2lc2mqe49uz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
