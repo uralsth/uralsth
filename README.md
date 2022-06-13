@@ -39,9 +39,9 @@ pursuing my B.CSIT from Academia International College, Gwarko
 ### 📊 My Github Stats:
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
-<p align='center'>
+<p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralsth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" />  
 </p>  
 <br/>
