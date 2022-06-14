@@ -47,6 +47,6 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <br/>
 
 ### Lets connect through:
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://www.facebook.com/ural.shrestha.07/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/gooner_ural"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/ural-shrestha-20196723a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
