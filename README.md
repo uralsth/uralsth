@@ -16,7 +16,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <br>
 
 
-### 🚀 My Tech Stack:
+<p style="text-align: center;">🚀 My Tech Stack:</p>
 
 <p>
 <div align="center">
