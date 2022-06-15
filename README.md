@@ -45,6 +45,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 <p align='left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralsth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="uralsth" />  
+  <br>
 </p>  
 
 <br/>
