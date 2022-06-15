@@ -46,8 +46,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 </p>  
 <br/>
 <p align='left'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ural Shrestha's Github Stats">
-</p>
+![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=radical)</p>
+<br>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=uralsth&theme=juicyfresh&no-bg=true"/></p>
 <br>
