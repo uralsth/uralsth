@@ -18,14 +18,12 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 ### 🚀 My Tech Stack:
 
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-e65100?style=for-the-badge&logo=html5&logoColor=e65100&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-0277bd?style=for-the-badge&logo=css3&logoColor=0277bd&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-0277bd?style=for-the-badge&logo=python&logoColor=ffc107&labelColor=282828">
+</div>
 </p>
 
 <br>
@@ -52,7 +50,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 <br/>
 
-###  🏆 Git profile Trophies:
+###  🏆 Git Profile Trophies:
 <p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=uralsth&theme=juicyfresh&no-bg=true"/></p>
 <br>
 
