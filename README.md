@@ -39,7 +39,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 ### 📊 My Github Stats:
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 
@@ -50,7 +50,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 <br/>
 
-[![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
