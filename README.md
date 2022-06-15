@@ -52,7 +52,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 </p>  
 
 <br/>
-<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+###  🏆 Git profile Trophies:
 <p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=uralsth&theme=juicyfresh&no-bg=true"/></p>
 <br>
 
