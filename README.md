@@ -40,14 +40,19 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <br>
+
 <p align='left'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralsth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralsth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="uralsth" />  
 </p>  
+
 <br/>
-<p align='left'>
-![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=radical)</p>
+
+[![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=radical)]
+
 <br>
+
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=uralsth&theme=juicyfresh&no-bg=true"/></p>
 <br>
