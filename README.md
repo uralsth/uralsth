@@ -23,6 +23,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
   <img src="https://img.shields.io/badge/-HTML-e65100?style=for-the-badge&logo=html5&logoColor=e65100&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-0277bd?style=for-the-badge&logo=css3&logoColor=0277bd&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-ffc107?style=for-the-badge&logo=python&logoColor=ffc107&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Django-003b22?style=for-the-badge&logo=python&logoColor=003b22&labelColor=282828">
 </div>
 </p>
 
