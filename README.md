@@ -49,9 +49,9 @@ pursuing my B.CSIT from Academia International College, Gwarko
 </p>  
 
 <br/>
-
+<p>
 [![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <br>
 
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
