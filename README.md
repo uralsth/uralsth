@@ -53,7 +53,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <hr>
 
 ## 📊 My Github Stats:
-![snake gif](https://github.com/uralsth/uralsth/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/uralsth/uralsth/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
