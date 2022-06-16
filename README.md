@@ -39,6 +39,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <img alt="Neovim" src="https://img.shields.io/badge/Neovim-58a633.svg?logo=Neovim&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
 <img alt="Emacs" src="https://img.shields.io/badge/GNU%20Emacs%20-%8843b6.svg?logo=GNU%20Emacs&logoColor=white">
+<img alt="Terminal" src="https://img.shields.io/badge/GNOME%20Terminal-%23F37626.svg?logo=GNOME%Terminal&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <!-- <img alt="Windows" src="https://img.shields.io/badge/Windows%20-%0078D6.svg?logo=Windows&logoColor=white"> -->
 <img alt="Linux" src="https://img.shields.io/badge/Linux-383838?logo=Linux&logoColor=white">
@@ -52,6 +53,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <hr>
 
 ## 📊 My Github Stats:
+![snake gif](https://github.com/uralsth/uralsth/blob/output/github-contribution-grid-snake.gif)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
@@ -75,3 +78,4 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <a href="https://www.facebook.com/ural.shrestha.07/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/gooner_ural"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/ural-shrestha-20196723a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
