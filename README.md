@@ -8,8 +8,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 🌱 I’m currently learning Django Web Development
-- 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning ASP.NET.
 - 📫 Reach out to me: shresthaural100@gmail.com
 
 <br>
