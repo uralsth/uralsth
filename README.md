@@ -8,7 +8,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 🌱 I’m currently learning ASP.NET.
+- 🌱 I’m currently learning ASP.NET Core.
 - 📫 Reach out to me: shresthaural100@gmail.com
 
 <br>
