@@ -1,8 +1,4 @@
 <h1 align="center">Hello World!, I'm Ural Shrestha!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
-<br>
-
-I am an Undergraduate Student
-pursuing my B.CSIT from Academia International College, Gwarko
 
 <br>
 
