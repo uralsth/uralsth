@@ -48,11 +48,6 @@
 <hr>
 
 ## 📊 My Github Stats:
-![snake gif](https://github.com/uralsth/uralsth/blob/output/github-contribution-grid-snake.svg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br>
 
 [![Ural Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uralsth&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -62,10 +57,6 @@
 
 
 <br/>
-
-### 🏆 Git Profile Trophies:
-<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=uralsth&theme=juicyfresh&no-bg=true"/></p>
-<br>
 
 <hr>
 
